@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  height: auto;
+}
+
+.portfolio {
+  background: url(../img/bg.png);
+  background-repeat: no-repeat;
+  max-width: 1440px;
+  margin: 0 auto;
+  height: 768px;
+}
+
+.color {
+  background: rgba(198, 108, 73, 0.3);
+}
+/*# sourceMappingURL=style.css.map */
